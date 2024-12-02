@@ -1,1 +1,1 @@
-Repo for the 2024 addition of the advent of code
+Repo for the advent of code
