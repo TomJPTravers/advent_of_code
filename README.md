@@ -1,1 +1,1 @@
-Repo for the advent of code
+My solutions (or failures) for the [Advent of Code](https://adventofcode.com/)
