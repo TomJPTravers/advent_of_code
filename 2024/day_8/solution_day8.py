@@ -81,5 +81,3 @@ for t in towers:
         all_antinodes |= set(where_antinodes_pt2(p1, p2, max_x, max_y))
 
 print(f"Numer of Anti-nodes is {len(all_antinodes)}")
-
-# test comment
